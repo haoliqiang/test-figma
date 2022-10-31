@@ -1,0 +1,18 @@
+<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="24" height="24" rx="2" fill="#E9EAEE"/>
+<path d="M12 4L9.5 6.00056L17.5 7.5L20 5.5L12 4Z" fill="#3B6DE0" fill-opacity="0.25"/>
+<path d="M12 11.5L9.5 13.5L17.5 15L20 13L12 11.5Z" fill="#3B6DE0" fill-opacity="0.5"/>
+<path d="M9.5 6L17.5 7.5V15L9.5 13.5V6Z" fill="#3B6DE0" fill-opacity="0.5"/>
+<path d="M12 4L20 5.5V13L12 11.5V4Z" fill="#3B6DE0" fill-opacity="0.2"/>
+<path d="M17.5 7.5L20 5.5V13L17.5 15V7.5Z" fill="#3B6DE0" fill-opacity="0.75"/>
+<path d="M8.5 7.5L7.5 8.5L15.5 10L16.5 9L8.5 7.5Z" fill="#1DCEC1" fill-opacity="0.25"/>
+<path d="M7.5 8.5L15.5 10V17.5L7.5 16V8.5Z" fill="#1DCEC1" fill-opacity="0.5"/>
+<path d="M8.5 7.5L16.5 9V16.5L8.5 15V7.5Z" fill="#1DCEC1" fill-opacity="0.2"/>
+<path d="M15.5 10L16.5 9V16.5L15.5 17.5V10Z" fill="#1DCEC1" fill-opacity="0.75"/>
+<path d="M8.5 15L7.5 16L15.5 17.5L16.5 16.5L8.5 15Z" fill="#1DCEC1" fill-opacity="0.5"/>
+<path d="M6.5 9.5L4 11.5006L12 13L14.5 11L6.5 9.5Z" fill="#3B6DE0" fill-opacity="0.25"/>
+<path d="M6.5 17L4 19L12 20.5L14.5 18.5L6.5 17Z" fill="#3B6DE0" fill-opacity="0.5"/>
+<path d="M4 11.5L12 13V20.5L4 19V11.5Z" fill="#3B6DE0" fill-opacity="0.5"/>
+<path d="M6.5 9.5L14.5 11V18.5L6.5 17V9.5Z" fill="#3B6DE0" fill-opacity="0.2"/>
+<path d="M12 13L14.5 11V18.5L12 20.5V13Z" fill="#3B6DE0" fill-opacity="0.75"/>
+</svg>
